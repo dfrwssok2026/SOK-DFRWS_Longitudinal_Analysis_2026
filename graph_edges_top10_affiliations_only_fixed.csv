@@ -1,0 +1,25 @@
+source,target,relationship,weight
+Mark Scanlon,University College Dublin,AFFILIATED_WITH,20
+Frank Breitinger,University of Lausanne,AFFILIATED_WITH,10
+Ibrahim Baggili,University of New Haven,AFFILIATED_WITH,22
+Ibrahim Baggili,Louisiana State University,AFFILIATED_WITH,9
+Ibrahim Baggili,Zayed University,AFFILIATED_WITH,2
+Andrew Case,Volatility Foundation,AFFILIATED_WITH,11
+Golden G. Richard III,University of New Orleans,AFFILIATED_WITH,15
+Vassil Roussev,University of New Orleans,AFFILIATED_WITH,18
+Frank Breitinger,University of Liechtenstein,AFFILIATED_WITH,4
+Andrew Case,Volexity,AFFILIATED_WITH,1
+Sangjin Lee,Korea University,AFFILIATED_WITH,19
+Felix C. Freiling,Friedrich-Alexander-University Erlangen-Nuremberg,AFFILIATED_WITH,26
+Frank Breitinger,University of Augsburg,AFFILIATED_WITH,2
+Frank Breitinger,Hochschule Darmstadt,AFFILIATED_WITH,3
+Frank Breitinger,University of New Haven,AFFILIATED_WITH,11
+Mourad Debbabi,Concordia University,AFFILIATED_WITH,17
+Golden G. Richard III,Louisiana State University,AFFILIATED_WITH,9
+Andrew Case,"Digital Forensics Solutions, LLC",AFFILIATED_WITH,2
+Frank Breitinger,National Institute for Standards and Technologies,AFFILIATED_WITH,1
+Harald Baier,"CRISP, Center for Research in Security and Privacy, Darmstadt",AFFILIATED_WITH,1
+Andrew Case,University of New Orleans,AFFILIATED_WITH,1
+Andrew Case,Louisiana State University,AFFILIATED_WITH,1
+Harald Baier,University of the Bundeswehr Munich,AFFILIATED_WITH,8
+Harald Baier,Hochschule Darmstadt,AFFILIATED_WITH,6
