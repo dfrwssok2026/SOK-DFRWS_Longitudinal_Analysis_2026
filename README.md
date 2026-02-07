@@ -39,11 +39,11 @@ OpenAI API Setup
 Some notebooks rely on the OpenAI API.
 
 Step 1: Create a .env file
-```bash
+
 OPENAI_API_KEY=your_api_key_here
 
 Step 2: Load in Python
-```bash
+
 from dotenv import load_dotenv
 from openai import OpenAI
 import os
