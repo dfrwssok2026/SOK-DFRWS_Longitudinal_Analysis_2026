@@ -12,11 +12,13 @@ Supplementary CSV files used for figures.
 ### taxonomy.ipynb
 Taxonomy construction, analysis, and plots.
 
+### community_network_research_focus.ipynb
+information extraction, community structure (school, authors_name, affiliation, published year, venues, anti-df vs df).
+
 ### tool_submission.ipynb
-Tool extraction & categorization pipeline.
 
 ### results_combined_prompts_new.csv
-Combined LLM labeling results.
+Combined LLM labeling results (community network and research focus).
 
 ### tools_new_expanded.csv.xlsx
 Expanded tool metadata.
