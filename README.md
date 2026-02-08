@@ -16,9 +16,13 @@ Taxonomy construction, analysis, and plots.
 information extraction, community structure (school, authors_name, affiliation, published year, venues, anti-df vs df).
 
 ### tool_submission.ipynb
+tool prompts, data visualization script.
 
 ### results_combined_prompts_new.csv
 Combined LLM labeling results (community network and research focus).
+
+### results_new_taxonomy_analysis.csv
+LLM classification for 544 dfrws papers (taxonomy)
 
 ### tools_new_expanded.csv.xlsx
 Expanded tool metadata.
