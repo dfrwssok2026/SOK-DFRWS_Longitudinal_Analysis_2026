@@ -27,6 +27,11 @@ LLM classification for 544 dfrws papers (taxonomy)
 ### tools_new_expanded.csv.xlsx
 Expanded tool metadata.
 
+### Manual Validation and GroundTruth vs LLM (confusion matrix)
+manual_verification_60_final.csv (author_a in sheet 1, author_b in sheet 2, author_c in sheet 3 and gold_label in sheet 4)
+groundtruth_vs_llm_confusion_matrix.csv (All task in different sheets)
+
+
 ### taxonomy_updated.pdf
 Updated taxonomy diagram.
 
